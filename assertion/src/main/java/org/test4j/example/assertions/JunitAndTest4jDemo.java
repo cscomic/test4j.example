@@ -2,6 +2,7 @@ package org.test4j.example.assertions;
 
 import org.junit.Assert;
 import org.junit.Test;
+import org.test4j.example.assertions.pojo.UserA;
 import org.test4j.junit.Test4J;
 
 public class JunitAndTest4jDemo extends Test4J {

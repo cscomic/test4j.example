@@ -1,4 +1,4 @@
-package org.test4j.example.assertions.string;
+package org.test4j.example.assertions;
 
 import org.junit.Test;
 import org.test4j.hamcrest.matcher.string.StringMode;

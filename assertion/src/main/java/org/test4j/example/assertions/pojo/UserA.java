@@ -1,4 +1,4 @@
-package org.test4j.example.assertions;
+package org.test4j.example.assertions.pojo;
 
 public class UserA {
 
